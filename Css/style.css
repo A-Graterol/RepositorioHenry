@@ -1,0 +1,21 @@
+body{
+    background-color:antiquewhite;
+}
+
+.title{
+    color: chocolate;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.subtitle{
+    color: black;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    color: black;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
